@@ -2,18 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Apsara Siddiqui</h1>
-<h3 align="center">Software Development Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsarasiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="apsarasiddiqui" /> </p>
 
-- 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Web 3.0 and Metaverse**
 
-- 💬 Ask me about **HTML,C,JAVA,C++**
+- 💬 Ask me about **HTML,C,JAVA,C++,Python,C#,JQUERY**
 
 - 📫 How to reach me **https://www.linkedin.com/in/apsara-siddiqui-a44403242/**
 
